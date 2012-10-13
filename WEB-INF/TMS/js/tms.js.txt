@@ -1,0 +1,5 @@
+function tms()
+{
+	console.log("Om namo narayanaya");
+
+}
